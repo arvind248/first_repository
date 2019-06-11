@@ -1,2 +1,3 @@
 # first_repository
-try to start with github
+Puzzle Game squeuncing the number in order
+
